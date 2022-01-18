@@ -1,0 +1,14 @@
+E:\Data_Structure\Stack-Implementation-using-LinkedList\Stack-Implementation\Stack-Implementation\bin\Debug\netcoreapp3.1\Stack-Implementation.exe
+E:\Data_Structure\Stack-Implementation-using-LinkedList\Stack-Implementation\Stack-Implementation\bin\Debug\netcoreapp3.1\Stack-Implementation.deps.json
+E:\Data_Structure\Stack-Implementation-using-LinkedList\Stack-Implementation\Stack-Implementation\bin\Debug\netcoreapp3.1\Stack-Implementation.runtimeconfig.json
+E:\Data_Structure\Stack-Implementation-using-LinkedList\Stack-Implementation\Stack-Implementation\bin\Debug\netcoreapp3.1\Stack-Implementation.runtimeconfig.dev.json
+E:\Data_Structure\Stack-Implementation-using-LinkedList\Stack-Implementation\Stack-Implementation\bin\Debug\netcoreapp3.1\Stack-Implementation.dll
+E:\Data_Structure\Stack-Implementation-using-LinkedList\Stack-Implementation\Stack-Implementation\bin\Debug\netcoreapp3.1\Stack-Implementation.pdb
+E:\Data_Structure\Stack-Implementation-using-LinkedList\Stack-Implementation\Stack-Implementation\obj\Debug\netcoreapp3.1\Stack-Implementation.csproj.AssemblyReference.cache
+E:\Data_Structure\Stack-Implementation-using-LinkedList\Stack-Implementation\Stack-Implementation\obj\Debug\netcoreapp3.1\Stack-Implementation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Data_Structure\Stack-Implementation-using-LinkedList\Stack-Implementation\Stack-Implementation\obj\Debug\netcoreapp3.1\Stack-Implementation.AssemblyInfoInputs.cache
+E:\Data_Structure\Stack-Implementation-using-LinkedList\Stack-Implementation\Stack-Implementation\obj\Debug\netcoreapp3.1\Stack-Implementation.AssemblyInfo.cs
+E:\Data_Structure\Stack-Implementation-using-LinkedList\Stack-Implementation\Stack-Implementation\obj\Debug\netcoreapp3.1\Stack-Implementation.csproj.CoreCompileInputs.cache
+E:\Data_Structure\Stack-Implementation-using-LinkedList\Stack-Implementation\Stack-Implementation\obj\Debug\netcoreapp3.1\Stack-Implementation.dll
+E:\Data_Structure\Stack-Implementation-using-LinkedList\Stack-Implementation\Stack-Implementation\obj\Debug\netcoreapp3.1\Stack-Implementation.pdb
+E:\Data_Structure\Stack-Implementation-using-LinkedList\Stack-Implementation\Stack-Implementation\obj\Debug\netcoreapp3.1\Stack-Implementation.genruntimeconfig.cache
