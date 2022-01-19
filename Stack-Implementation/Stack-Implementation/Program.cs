@@ -191,7 +191,7 @@ namespace First
             }
             else
             {
-                return stackarr[top]; //using indexer to return my value
+                return stackarr[top];
             }
         }
         public void Print()
