@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Data_Structure\\Stack-Implementation-using-LinkedList\\Stack-Implementation\\Stack-Implementation\\Stack-Implementation.csproj",
+      "projectUniqueName": "E:\\Data_Structure\\Stack-Implementation\\Stack-Implementation\\Stack-Implementation\\Stack-Implementation.csproj",
       "projectName": "Stack-Implementation",
-      "projectPath": "E:\\Data_Structure\\Stack-Implementation-using-LinkedList\\Stack-Implementation\\Stack-Implementation\\Stack-Implementation.csproj",
+      "projectPath": "E:\\Data_Structure\\Stack-Implementation\\Stack-Implementation\\Stack-Implementation\\Stack-Implementation.csproj",
       "packagesPath": "C:\\Users\\Islam Farhat\\.nuget\\packages\\",
-      "outputPath": "E:\\Data_Structure\\Stack-Implementation-using-LinkedList\\Stack-Implementation\\Stack-Implementation\\obj\\",
+      "outputPath": "E:\\Data_Structure\\Stack-Implementation\\Stack-Implementation\\Stack-Implementation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Islam Farhat\\AppData\\Roaming\\NuGet\\NuGet.Config",
